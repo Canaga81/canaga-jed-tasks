@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 let teref_1 = Number(prompt("Duzbucagin enini yaziniz(sm): "));
 let teref_2 = Number(prompt("Duzbucagin uzunlugunu yaziniz(sm): "));
 
