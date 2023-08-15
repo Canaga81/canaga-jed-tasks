@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 let eded_1 = Number(prompt("Eded Daxil Edin: "));
 let eded_2 = Number(prompt("Eded Daxil Edin: "));
 
