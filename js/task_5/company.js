@@ -1,3 +1,4 @@
+// A: excellent ✨
 let radius = Number(prompt("Cevrenin radiusunu daxil edin: "));
 
 let uzunlug = 6*radius;
