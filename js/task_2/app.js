@@ -1,3 +1,4 @@
+// A: excellent ✨
 let buIl = 2023;
 
 let user = Number(prompt("Doguldugunuz ili daxil edin: "));
