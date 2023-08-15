@@ -1,3 +1,4 @@
+// A: done ✅
 let ad = prompt("Adiniz: ");
 let soyad = prompt("Soyadiniz: ");
 let yas = Number(prompt("Yasiniz: "));
