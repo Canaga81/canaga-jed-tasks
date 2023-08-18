@@ -1,8 +1,8 @@
+// A: haha, teqriben duzdur
 //! Yol 1 (Yolun Ozu Sehvdi Ancaq Cavab Duzdu :) (prompt'u number'e cevirmeyende duz olur) )
 
 
 // let number = prompt("Eded Yaziniz: ");
-
 
 // if(number.length === 2) {
 //     console.log("Eded 2 reqemlidir !");
