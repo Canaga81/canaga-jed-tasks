@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 let celsius = +prompt("Havanin derecesini Selsi ile yaziniz: ");
 
 let fahrenheyt = celsius * 1.8 + 32;
