@@ -1,3 +1,4 @@
+// A: proud of you 🤠
 let num = +prompt("Eded Yaziniz: ");
 
 let num_kvadrat = num ** 2;
