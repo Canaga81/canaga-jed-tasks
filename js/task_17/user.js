@@ -1,3 +1,4 @@
+// A: done as 🐉
 let user = prompt("Soz yaziniz: ");
 
 

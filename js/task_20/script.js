@@ -1,5 +1,5 @@
 //! Yol 1
-
+// A: done as 🐉
 
 let number_1 = +prompt("Eded Yaziniz: ");
 

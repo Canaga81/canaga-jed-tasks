@@ -1,3 +1,4 @@
+// A: done as 🐉
 let chooseMusic = prompt(`Sevdiyin Musiqi Adini Yaz: 
 1. Cennetten Cicek
 2. Issiz Duvarlar

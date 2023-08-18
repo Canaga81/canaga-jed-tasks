@@ -1,5 +1,5 @@
 //! If ve Else ile duzeldilen Calculator
-
+// A: 
 let num_1 = +prompt("1'ci Reqem: ");
 let num_2 = +prompt("2'ci Reqem: ");
 let operator = prompt(`Operatorlar:
