@@ -1,5 +1,6 @@
 let istiqamet = prompt("Istiqamet harayadir?: ");
 
+
 switch(istiqamet) {
     case "up":
         console.log("Yuxari Get");
