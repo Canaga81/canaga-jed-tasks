@@ -1,3 +1,4 @@
+// A: done as 🐉
 let number = +prompt("Eded yaziniz: ");
 
 
