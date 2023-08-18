@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 let a = +prompt("Reqem Yaziniz: ");
 let b = +prompt("Reqem Yaziniz: ");
 let c = +prompt("Reqem Yaziniz: ");
