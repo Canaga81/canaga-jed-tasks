@@ -1,3 +1,4 @@
+// A: proud of you 🤠
 let number = +prompt("Eded Yaziniz: ");
 
 
