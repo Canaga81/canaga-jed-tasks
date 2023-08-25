@@ -1,3 +1,4 @@
+// A: excellent ✨
 function number(num) {
     if(num % 2 == 0) {
         console.log("Dogru !");
