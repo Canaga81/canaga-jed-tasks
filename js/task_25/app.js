@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 //! Yontem 1
 
 // let cins = prompt("Cins olaraq k(Kisi) ve ya q(Qadin) Yaziniz: ");
