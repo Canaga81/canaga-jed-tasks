@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 let height = prompt("Boy Ölçünüzü Yaziniz(metr): ");
 let weight = prompt("Çəkinizi Yaziniz(kg): ");
 
