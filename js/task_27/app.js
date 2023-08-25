@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 function twoNumber(){
     let sum = 0;
     let step = 0;
