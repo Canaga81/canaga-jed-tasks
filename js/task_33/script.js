@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 let eded = +prompt("Eded Daxil Edin: ");
 let sum = 0;
 let step = 0
