@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 let ed1 = +prompt("Eded daxil edin: ");
 let ed2 = +prompt("Eded daxil edin: ");
 
