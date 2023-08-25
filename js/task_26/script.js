@@ -1,3 +1,4 @@
+// A: excellent ✨
 let ed1 = +prompt("Eded Daxil Edin: ");
 let ed2 = +prompt("Eded Daxil Edin: ");
 let ed3 = +prompt("Eded Daxil Edin: ");
