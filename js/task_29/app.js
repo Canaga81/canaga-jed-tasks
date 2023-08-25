@@ -1,3 +1,4 @@
+// A: excellent ✨
 //! Yol 1
 
 // let ad = prompt("Adnizi Daxil Edin: ");
