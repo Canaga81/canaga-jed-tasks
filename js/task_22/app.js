@@ -1,3 +1,4 @@
+// A: excellent ✨
 let istiqamet = prompt("Istiqamet harayadir?: ");
 
 
