@@ -40,6 +40,7 @@ function numberToText(number) {
             break;
         case '9':
             secondTextNum = "Doqquz";
+            break;
     }
 
     switch (firstNum) {
@@ -69,6 +70,7 @@ function numberToText(number) {
             break;
         case '9':
             firstTextNum = 'Doxsan';
+            break;
     }
 
     return `${firstTextNum} ${secondTextNum}`
