@@ -233,6 +233,8 @@ const users = [
 
 const filterUsed = users.filter((user) => user.id);
 
-const multiplyId = filterUsed.map((user) => user.id * 2)
+
+const multiplyId = filterUsed.map((user) => user.id * 2);
+
 
 console.log(multiplyId);
