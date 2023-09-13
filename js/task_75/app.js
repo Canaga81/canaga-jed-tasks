@@ -231,9 +231,9 @@ const users = [
     }
 ];
 
-const usersHighhestId = users.reduce((common, highestId) => {
-    return common.id > highestId.id ? common.id : highestId.id
-}, users[0]);
 
+const username = users.map((user) => user.name);
 
-console.log(usersHighhestId);
+const nameSort = username.sort();
+
+console.log(nameSort);
