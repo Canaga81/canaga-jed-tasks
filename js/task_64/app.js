@@ -1,3 +1,4 @@
+// A: done as 🐉
 let uzunlug = 5;
 
 let massiv = [];
