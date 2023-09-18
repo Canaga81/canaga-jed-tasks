@@ -1,3 +1,4 @@
+// A: excellent ✨
 const calculate = {
 
     ed1: 0,
