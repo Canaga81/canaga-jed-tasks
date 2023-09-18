@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 const propertyTaker = () => {
     const obj = {
         continent:'Asia',
