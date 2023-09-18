@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 let eded = +prompt("Eded daxil Edin: ");
 
 function isEven(eded) {
