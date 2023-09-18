@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 let eded = +prompt("Eded Daxil Edin: ");
 
 function isLucky(eded) {
