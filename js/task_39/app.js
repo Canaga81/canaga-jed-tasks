@@ -1,3 +1,4 @@
+// A: done as 🐉
 let eded = +prompt("Eded Daxil Edin: ");
 
 function isLucky(eded) {
