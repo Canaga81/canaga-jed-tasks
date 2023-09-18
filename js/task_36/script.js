@@ -1,3 +1,4 @@
+// A: cool 😎
 let eded = +prompt("Eded Daxil Edin: ");
 let onluq = Math.floor(eded/10) * 10;
 let teklik = eded % 10;
