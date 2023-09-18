@@ -1,3 +1,4 @@
+// A: excellent ✨
 let massiv = [1, 2, 3, 6];
 
 let hasil = 1;
