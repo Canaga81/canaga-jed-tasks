@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 function money() {
     let rubl = +prompt("Pul birimi olaraq Rubl Daxil Edin: ");
     let dollar = +prompt("Pul birimi olaraq Dollar $ Daxil Edin: ");
