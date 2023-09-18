@@ -1,3 +1,4 @@
+// A: cool 😎
 //! 4. verify gmail address. (gmail addressleri sonu @gmail.com ile bitmelidir, ve ondan evvel en azi 5 simvol olmalidir. abcdf@gmail.com meselen)
 
 let user = prompt('Emailnizi Daxil Edin: ');
