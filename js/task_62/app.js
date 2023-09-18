@@ -1,3 +1,4 @@
+// A: excellent ✨
 //! 8.Telefon nömrəsini parametr kimi qəbul edən ısvalidnumber() funksiyasını yazın. 
 //! Telefon nömrəsi 11 rəqəmdən ibarət olduqda və +7 ilə başladıqda, funksiya true qaytarır.
 
