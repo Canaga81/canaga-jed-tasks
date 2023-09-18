@@ -1,3 +1,4 @@
+// A: done as 🐉
 const number = prompt("Ikireqemli Eded Daxil Edin: ");
 
 console.log(numberToText(number));
