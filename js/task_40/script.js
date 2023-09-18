@@ -1,3 +1,4 @@
+// A: cool 😎
 let sentence = "paris cox gozel seherdir.";
 
 function capitalizeWords(sentence) {
