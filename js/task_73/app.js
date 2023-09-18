@@ -232,6 +232,6 @@ const users = [
 ];
 
 //! Chatgpt'den yazdim :(
-
+// A: live legend 🐱‍💻
 const sumUserId = users.reduce((sum, user) => sum + user.id, 0);
 console.log(sumUserId);
