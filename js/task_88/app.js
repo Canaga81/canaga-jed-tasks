@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 const resimler = [
     'images/ali.jpg',
     "images/bedbext_developer.jpg",
