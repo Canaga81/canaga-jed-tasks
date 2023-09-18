@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 let sum = 0;
 
 for(let i=11; i<100; i+=2) {
