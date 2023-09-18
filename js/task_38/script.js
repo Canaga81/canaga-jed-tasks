@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 let eded_1 = +prompt("Eded Daxil Edin: ");
 let eded_2 = +prompt("Eded Daxil Edin: ");
 let operator = prompt("Operator Daxil Edin: ");
