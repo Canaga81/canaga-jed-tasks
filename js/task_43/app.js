@@ -1,3 +1,4 @@
+// A: excellent ✨
 let metn = "Paris cox gozel seherdir";
 
 function numCounter(metn) {
