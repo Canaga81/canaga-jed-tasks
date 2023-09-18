@@ -1,3 +1,4 @@
+// A excellent ✨
 function prop2Taker() {
     const obj = {
         ad: 'Canaga',
