@@ -1,3 +1,4 @@
+// A: done as 🐉
 const greyBtn = document.querySelector('#grey');
 const redBtn = document.querySelector('#red');
 const blueBtn = document.querySelector('#blue');
