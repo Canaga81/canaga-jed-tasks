@@ -1,3 +1,4 @@
+// A: cool 😎
 //! Yol-1
 
 function multiply(arr) {
