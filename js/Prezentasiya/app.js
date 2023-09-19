@@ -80,11 +80,13 @@ console.log(back(10, 15, sum));
 /* Stack muveqqeti melumatlari burda saxlanilir.Ancaq Heap'da Boyuk Melumatlar saxlanilir. Heap'la Stack'in arasindaki ferqler: */
 
 /* Bu stack'dir.Cunki bu beraberdir */;
+/* Link'ler Stack'dir */
 
 let a = 5;
 let b = a;
 
 /* Bu heap'dir cunki bele yazilanda beraber olmaz. */
+/* Ancaq Link'den girilen WebSite ve ya sekil heap'dir. */
 
 let c = 5;
 let d = 5;
