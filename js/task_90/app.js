@@ -38,6 +38,5 @@ fetch( 'https://api.github.com/users/Ali-GreenHeart' )
                     `
                 }
             })
-        
     } )
     .catch(error => console.error('Hata: ' + error))
