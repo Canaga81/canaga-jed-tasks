@@ -7,10 +7,11 @@ btn.addEventListener( 'click', function () {
 
     const inputValue = inputEl.value;
 
-    fetch( `https://restcountries.com/v3.1/name/${inputValue}` )
+    fetch( `https://restcountries.com/v3.1/name/${ inputValue }` )
 
     .then( response => response.json() )
-    .then( data => {
+        .then( data => {
+        
         const myData = data[0];
         console.log( myData );
 
@@ -26,6 +27,7 @@ btn.addEventListener( 'click', function () {
         `;
         
     } )
+        
     .catch( ( error ) => console.log( error ) );
 
 } );
